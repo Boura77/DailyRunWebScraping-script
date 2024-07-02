@@ -622,7 +622,7 @@ except Exception as e:
 #dffinal = pd.concat([df12, df34], ignore_index=True)
 #dffinal
 #insert your file_path
-#file_path = r'C:\Users\bot\Barakat Vegetables & Fruits Co. (L.L.C.)\Data Analytics - Documents\Dynamics Datasets\Ecom Dataset\WebScrap\competitordata.csv'
+#file_path = r'C:\Users\Data Analytics - Documents\Dynamics Datasets\Ecom Dataset\WebScrap\competitordata.csv'
  
 #dffinal.to_csv(file_path, index=False)
 
