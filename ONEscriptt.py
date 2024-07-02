@@ -13,7 +13,7 @@ import urllib3
 import os
 #C4
 
-file_path=r'C:\Users\bot\Barakat Vegetables & Fruits Co. (L.L.C.)\Data Analytics - Documents\Dynamics Datasets\Ecom Dataset\WebScrap'
+file_path=r'C:\Users\Data Analytics - Documents\Dynamics Datasets\Ecom Dataset\WebScrap'
 
 HEAD = {'User_Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0'}
 try: 
